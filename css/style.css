@@ -74,7 +74,7 @@ padding: 50px;
     color: right;
 }
 #hello{
-    background-image: url('../img/mountain.jpg');
+    background-image: url('../images/mountain.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
