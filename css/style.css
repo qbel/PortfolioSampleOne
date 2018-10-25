@@ -1,0 +1,135 @@
+#brand{
+    font-family: 'Kodchasan', sans-serif;
+}
+
+.navbar a{
+    margin-right: 20px;
+}
+#lim{
+    color: white;
+    font-size: 1.0em;
+    font-weight: bolder;
+    font-family: 'Kodchasan', sans-serif;
+}
+#page{
+    font-size: 1em;
+}
+.progress-bar1{
+    background-color: red;
+    line-height: 0.5em;
+}
+.progress-bar2{
+    background-color: purple;
+}
+.progress-bar3{
+    background-color: pink;
+}
+.preload {
+    width:100px;
+    height: 100px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* text-align: center; */
+}
+.content {
+    display:none;
+}
+#next{
+background: repeating-linear-gradient(
+  310deg,
+  #fff,
+  #C0C0C0 1px,
+  #C0C0C0 1px,
+  #fff 4px
+);
+padding: 50px;
+
+}
+.king{
+    z-index: 10;
+    position: relative;
+    /* left: 10auto0px; */
+
+}
+.latest{
+    padding-top: 50px;
+    background-color: #303532;
+    padding-bottom:20px;
+}
+.p-3 {
+    padding: $spacer !important;
+}
+#dawn{
+    font-family: 'Poppins', sans-serif;
+    color: 	#545454;
+}
+#if{
+    color: #C0C0C0;
+}
+#later{
+    font-family: 'Poppins', sans-serif;
+}
+#idea a:hover{
+    color: right;
+}
+#hello{
+    background-image: url('../img/mountain.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 250px;
+    position: relative;
+    text-align: center;
+}
+.hello-overlay{
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    /* width: auto; */
+    top: 0;
+    bottom: 0;
+    left:0;
+    right: 0;
+    background-color: #ff0075;
+    opacity: 0.5;
+}
+#binta{
+    padding-top:50px;
+    font-weight: bolder;
+    color: #fff;
+}
+.sam{
+    background: repeating-linear-gradient(
+      310deg,
+      #fff,
+      #C0C0C0 1px,
+      #C0C0C0 1px,
+      #fff 4px
+    );
+    padding: 50px;
+}
+#sam2{
+    background: repeating-linear-gradient(
+      310deg,
+      #fff,
+      #C0C0C0 1px,
+      #C0C0C0 1px,
+      #fff 4px
+    );
+}
+#kwin{
+    font-size: 1.5em;
+    font-weight: bolder;
+}
+#dev{
+    font-size: 1.2em;
+}
+#foot{
+    background-color: #303532;
+    /* padding: 30px; */
+}
+.write{
+    font-size: 1.1em;
+}
